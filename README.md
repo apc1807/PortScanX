@@ -68,8 +68,10 @@ Viewer role can safely inspect saved JSON without performing scans.
 UDP scans are limited to a few common ports for speed.
 
 JSON Output Example
-<details> <summary>{
-```json
+<details> <summary>
+  ```json
+  {
+
   "127.0.0.1": {
     "ports": {
       "22": { "service": "SSH" },
