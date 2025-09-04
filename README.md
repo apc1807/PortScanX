@@ -69,6 +69,7 @@ UDP scans are limited to a few common ports for speed.
 
 JSON Output Example
 <details> <summary>{
+```json
   "127.0.0.1": {
     "ports": {
       "22": { "service": "SSH" },
@@ -84,4 +85,5 @@ JSON Output Example
     }
   }
 }
+```
 </summary>
